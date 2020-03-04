@@ -1,0 +1,14 @@
+body {color: black;
+ background-color: #848484;
+ }
+ a {text-decoration: none;
+ }
+ a.pink {color: pink;
+ }
+ a.roed {color: red;
+ }
+ a.orange {color: orange;
+ }
+ a.gul {color: yellow;
+ }
+ 
